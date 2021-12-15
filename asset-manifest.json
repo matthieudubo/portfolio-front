@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio-front/static/css/main.0c2dcf6f.chunk.css",
+    "main.css": "/portfolio-front/static/css/main.59bdd72e.chunk.css",
     "main.js": "/portfolio-front/static/js/main.d247b3e4.chunk.js",
     "main.js.map": "/portfolio-front/static/js/main.d247b3e4.chunk.js.map",
     "runtime-main.js": "/portfolio-front/static/js/runtime-main.2b8bf223.js",
@@ -10,7 +10,7 @@
     "static/js/3.5f27122c.chunk.js": "/portfolio-front/static/js/3.5f27122c.chunk.js",
     "static/js/3.5f27122c.chunk.js.map": "/portfolio-front/static/js/3.5f27122c.chunk.js.map",
     "index.html": "/portfolio-front/index.html",
-    "static/css/main.0c2dcf6f.chunk.css.map": "/portfolio-front/static/css/main.0c2dcf6f.chunk.css.map",
+    "static/css/main.59bdd72e.chunk.css.map": "/portfolio-front/static/css/main.59bdd72e.chunk.css.map",
     "static/js/2.4994c8e5.chunk.js.LICENSE.txt": "/portfolio-front/static/js/2.4994c8e5.chunk.js.LICENSE.txt",
     "static/media/styles.css": "/portfolio-front/static/media/portrait.9dd4ba2d.JPG",
     "static/media/cv.5c53741e.pdf": "/portfolio-front/static/media/cv.5c53741e.pdf",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.2b8bf223.js",
     "static/js/2.4994c8e5.chunk.js",
-    "static/css/main.0c2dcf6f.chunk.css",
+    "static/css/main.59bdd72e.chunk.css",
     "static/js/main.d247b3e4.chunk.js"
   ]
 }
