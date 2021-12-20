@@ -46,7 +46,14 @@ const Contact = () => {
             to download my CV.
           </span>
         </p>
-        <form onSubmit={(e) => sendMail(e)}>
+        <form
+          onSubmit={(e) => {
+            sendMail(e);
+            if (name && subject && email && message) {
+              alert("Thank you for your message!");
+            }
+          }}
+        >
           <input
             type="text"
             name="name"
