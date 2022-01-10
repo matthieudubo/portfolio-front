@@ -390,6 +390,10 @@ a:visited {
   .about {
     margin-left: 0;
   }
+  .about__title {
+    font-size: 3.5rem;
+    text-align: center;
+  }
 }
 
 @media screen and (max-width: 400px) {
@@ -509,6 +513,9 @@ a:visited {
     margin-left: 0;
     height: auto;
   }
+  .projects .title {
+    font-size: 3.5rem;
+  }
   .projects__container {
     -webkit-box-pack: center;
         -ms-flex-pack: center;
@@ -521,6 +528,9 @@ a:visited {
   }
   .projects__container-card img {
     height: 150px;
+  }
+  .projects__container-card p {
+    font-size: 1rem;
   }
 }
 
@@ -688,6 +698,9 @@ a:visited {
 @media screen and (max-width: 570px) {
   .contact {
     margin-left: 0;
+  }
+  .contact .title {
+    font-size: 3.5rem;
   }
 }
 
