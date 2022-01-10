@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/portfolio-front/static/css/main.59bdd72e.chunk.css",
-    "main.js": "/portfolio-front/static/js/main.68f9b8a5.chunk.js",
-    "main.js.map": "/portfolio-front/static/js/main.68f9b8a5.chunk.js.map",
+    "main.css": "/portfolio-front/static/css/main.49c35bca.chunk.css",
+    "main.js": "/portfolio-front/static/js/main.bbd6b268.chunk.js",
+    "main.js.map": "/portfolio-front/static/js/main.bbd6b268.chunk.js.map",
     "runtime-main.js": "/portfolio-front/static/js/runtime-main.2b8bf223.js",
     "runtime-main.js.map": "/portfolio-front/static/js/runtime-main.2b8bf223.js.map",
     "static/js/2.4994c8e5.chunk.js": "/portfolio-front/static/js/2.4994c8e5.chunk.js",
@@ -10,18 +10,18 @@
     "static/js/3.5f27122c.chunk.js": "/portfolio-front/static/js/3.5f27122c.chunk.js",
     "static/js/3.5f27122c.chunk.js.map": "/portfolio-front/static/js/3.5f27122c.chunk.js.map",
     "index.html": "/portfolio-front/index.html",
-    "static/css/main.59bdd72e.chunk.css.map": "/portfolio-front/static/css/main.59bdd72e.chunk.css.map",
+    "static/css/main.49c35bca.chunk.css.map": "/portfolio-front/static/css/main.49c35bca.chunk.css.map",
     "static/js/2.4994c8e5.chunk.js.LICENSE.txt": "/portfolio-front/static/js/2.4994c8e5.chunk.js.LICENSE.txt",
-    "static/media/styles.css": "/portfolio-front/static/media/portrait.9dd4ba2d.JPG",
     "static/media/cv.5c53741e.pdf": "/portfolio-front/static/media/cv.5c53741e.pdf",
-    "static/media/live-up.46010611.png": "/portfolio-front/static/media/live-up.46010611.png",
-    "static/media/wild-heroes.a12b2855.png": "/portfolio-front/static/media/wild-heroes.a12b2855.png",
-    "static/media/wild-restau.a8a453b7.png": "/portfolio-front/static/media/wild-restau.a8a453b7.png"
+    "static/media/styles.css": "/portfolio-front/static/media/portrait.d0a97c2a.JPG",
+    "static/media/live-up.2a7fb190.png": "/portfolio-front/static/media/live-up.2a7fb190.png",
+    "static/media/wild-heroes.4756aa6a.png": "/portfolio-front/static/media/wild-heroes.4756aa6a.png",
+    "static/media/wild-restau.35316086.png": "/portfolio-front/static/media/wild-restau.35316086.png"
   },
   "entrypoints": [
     "static/js/runtime-main.2b8bf223.js",
     "static/js/2.4994c8e5.chunk.js",
-    "static/css/main.59bdd72e.chunk.css",
-    "static/js/main.68f9b8a5.chunk.js"
+    "static/css/main.49c35bca.chunk.css",
+    "static/js/main.bbd6b268.chunk.js"
   ]
 }
