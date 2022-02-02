@@ -12,8 +12,8 @@ const About = () => {
         <p>
           In terms of technologies, I use{" "}
           <span className="purple-text">
-            HTML, CSS, SCSS, JavaScript Vanilla, ReactJS, NodeJS, ExpressJS,
-            MySQL, Git
+            HTML, CSS, SASS, JavaScript Vanilla, ReactJS, TypeScript, NodeJS,
+            ExpressJS, MySQL, API Rest, Git, Github
           </span>
           . But, I'm curious so I'm not afraid to learn others technologies.
         </p>
