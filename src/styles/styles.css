@@ -327,7 +327,7 @@ a:visited {
 
 .about {
   margin-left: 8rem;
-  height: auto;
+  height: 100vh;
   color: white;
   display: -webkit-box;
   display: -ms-flexbox;
